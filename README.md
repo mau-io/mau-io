@@ -1,28 +1,41 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mau-io" alt="Profile Views" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mau-io&theme=blueberry" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things;Creative+problem+solver;Tech+enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=8B5CF6&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mau-io&hide=html" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=mau-io&color=8B5CF6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://github.com/mau-io?tab=followers">
+    <img src="https://img.shields.io/github/followers/mau-io?label=Followers&style=flat-square&color=3B82F6" alt="GitHub Followers" />
+  </a>
 </p>
 
-<h3 align="center">Technologies and Tools:</h3>
+
+## 🛠️ Technologies & Tools
 
 <p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,python,mongodb,mysql,git,github,vscode,figma&theme=dark" alt="Skills" />
 </p>
 
-<h3 align="center">GitHub Activity:</h3>
+
+</details>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mau-io&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=ffffff" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mau-io&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&hide=html&title_color=8B5CF6&text_color=ffffff" alt="Top Languages" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mau-io&show_icons=true&count_private=true&theme=blueberry" alt="GitHub Stats" />
+  <img width="90%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mau-io&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="90%" height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=mau-io&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mau-io&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
